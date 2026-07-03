@@ -1,0 +1,13 @@
+# Core Data Manipulation
+numpy>=1.22.0
+pandas>=1.4.0
+
+# Machine Learning Core Framework
+scikit-learn>=1.0.0
+
+# Data Visualization & EDA Tools
+matplotlib>=3.5.0
+seaborn>=0.11.2
+
+# Interactive Development Environment
+jupyter>=1.0.0
